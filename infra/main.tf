@@ -4,7 +4,8 @@ locals {
   selected_roles  = ["CognitiveServicesOpenAIUser", 
                       "CognitiveServicesUser", 
                       "StorageBlobDataOwner",
-                      "StorageQueueDataContributor", 
+                      "StorageQueueDataContributor",
+                      "Owner", 
                       "SearchIndexDataContributor"]
 }
 
