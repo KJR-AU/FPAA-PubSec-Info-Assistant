@@ -11,9 +11,9 @@ export type ExampleModel = {
 };
 
 const EXAMPLES: ExampleModel[] = [
-    { text: "Are there any radio telescopes in Australia?", value: "Are there any radio telescopes in Australia?" },
-    { text: "What are Microsoft's primary sources of revenue?", value: "What are Microsoft's primary sources of revenue?" },
-    { text: "What are some flavors of Breyers?", value: "What are some flavors of Breyers?" }
+    { text: "What are the key fire protection principles for any organisation?", value: "What are the key fire protection principles for any organisation?" },
+    { text: "What is FPAA's primary mission?", value: "What is FPAA's primary mission?" },
+    { text: "What are the main types of fire suppression systems?", value: "What are the main types of fire supression systems?" }
 ];
 
 interface Props {
