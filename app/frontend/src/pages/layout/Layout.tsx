@@ -4,7 +4,7 @@
 import { Outlet, NavLink, Link } from "react-router-dom";
 //import openai from "../../assets/openai.svg";
 //import fpaa from "../../assets/fpaa_logo.png";
-import fpaa from "../../assets/FPAai_beta.svg";
+import fpaa from "../../assets/FPAai_Beta.svg";
 import { WarningBanner } from "../../components/WarningBanner/WarningBanner";
 import styles from "./Layout.module.css";
 import { Title } from "../../components/Title/Title";
